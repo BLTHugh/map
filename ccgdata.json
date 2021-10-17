@@ -1,0 +1,744 @@
+{
+    "E38000251": {
+        "Code": "E38000251",
+        "Name": "NHS Coventry and Warwickshire CCG",
+        "ICS": "Coventry and Warwickshire STP",
+        "Already changed": "YES",
+        "HTML": "<h2>Your new ICS is Coventry and Warwickshire STP<\\/h2><br>The boundaries for your new ICS now include NHS Coventry and Rugby CCG, NHS South Warwickshire CCG and NHS Warwickshire North CCG.<table class = \\\u201dccg_table\\\u201d><thead><tr><th>Previous CCG<\\/th><th>Result<\\/th><\\/tr><\\/thead><tr><td>NHS Coventry and Rugby CCG<\\/td><td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td><\\/tr><tr><td>NHS South Warwickshire CCG<\\/td><td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td><\\/tr><tr><td>NHS Warwickshire North CCG<\\/td><td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td><\\/tr><\\/table>"
+    },
+    "E38000253": {
+        "Code": "E38000253",
+        "Name": "NHS Hampshire, Southampton and Isle of Wight CCG",
+        "ICS": "Hampshire and the Isle of Wight ICS",
+        "Already changed": "YES",
+        "HTML": "<h2>Your new ICS is Hampshire and the Isle of Wight ICS<\\/h2><br>The boundaries for your new ICS will include NHS Fareham and Gosport CCG, NHS Isle of Wight CCG, NHS North Hampshire CCG, NHS Portsmouth CCG, NHS Manchester CCG, NHS South Eastern Hampshire CCG, NHS Southampton CCG and NHS West Hampshire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Fareham and Gosport CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Isle of Wight CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Hampshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Portsmouth CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Eastern Hampshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southampton CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Hampshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000256": {
+        "Code": "E38000256",
+        "Name": "NHS North West London CCG",
+        "ICS": "North West London ICS",
+        "Already changed": "YES",
+        "HTML": "<h2>Your new ICS is North West London ICS<\\/h2><br>The boundaries for your new ICS will include NHS Brent CCG, NHS Central London CCG, NHS Ealing CCG, NHS Hammersmith and Fulham CCG, NHS Harrow CCG, NHS Hillingdon CCG, NHS Hounslow CCG and NHS West London CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Brent CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Central London CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Ealing CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Hammersmith and Fulham CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Harrow CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Hillingdon CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Hounslow CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West London CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000249": {
+        "Code": "E38000249",
+        "Name": "NHS Bedfordshire, Luton and Milton Keynes CCG",
+        "ICS": "Bedfordshire, Luton & Milton Keynes ICS",
+        "Already changed": "YES",
+        "HTML": "<h2>Your new ICS is Bedfordshire, Luton and Milton Keynes ICS<\\/h2><br>The boundaries for your new ICS now include NHS Bedfordshire CCG, NHS Luton CCG and NHS Milton Keynes.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bedfordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Luton CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Milton Keynes CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000252": {
+        "Code": "E38000252",
+        "Name": "NHS Frimley CCG",
+        "ICS": "Frimley Health & Care",
+        "Already changed": "YES",
+        "HTML": "<h2>Your new ICS is Frimley Health and Care<\\/h2><br>The boundaries for your new ICS now include NHS East Berkshire CCG, NHS North East Hampshire and Farnham CCG and NHS Surrey Heath CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East Berkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North East Hampshire and Farnham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Surrey Heath CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000255": {
+        "Code": "E38000255",
+        "Name": "NHS North East London CCG",
+        "ICS": "North East London ICS",
+        "Already changed": "YES",
+        "HTML": "<h2>Your new ICS is North East London ICS<\\/h2><br>The boundaries for your new ICS will include NHS Barking and Dagenham CCG, NHS City and Hackney CCG, NHS Havering CCG, NHS Newham CCG, NHS Redbridge CCG, NHS Tower Hamlets CCG and NHS Waltham Forest CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Barking and Dagenham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS City and Hackney CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Havering CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Newham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Redbridge CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tower Hamlets CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Waltham Forest CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000250": {
+        "Code": "E38000250",
+        "Name": "NHS Black Country and West Birmingham CCG",
+        "ICS": "The Black Country and West Birmingham STP",
+        "Already changed": "YES",
+        "HTML": "<h2>Your new ICS is The Black Country and West Birmingham STP<\\/h2><br>The boundaries for your new ICS will include NHS Dudley CCG, NHS Sandwell and West Birmingham CCG, NHS Walsall CCGand NHS Wolverhampton CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Dudley CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Sandwell and West Birmingham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Walsall CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wolverhampton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000257": {
+        "Code": "E38000257",
+        "Name": "NHS Shropshire, Telford and Wrekin CCG",
+        "ICS": "Shropshire, Telford & Wrekin STP",
+        "Already changed": "YES",
+        "HTML": "<h2>Your new ICS is Shropshire, Telford and Wrekin STP<\\/h2><br>The boundaries for your new ICS will include NHS Shropshire CCG and NHS Telford and Wrekin CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Shropshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Telford and Wrekin CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000226": {
+        "Code": "E38000226",
+        "Name": "NHS Fylde and Wyre CCG",
+        "ICS": "Lancashire and South Cumbria ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Lancashire and South Cumbria ICS<\\/h2><br>The boundaries for your new ICS will include NHS Blackburn with Darwen CCG, NHS Blackpool CCG, NHS Chorley and South Ribble CCG, NHS East Lancashire CCG, NHS Fylde and Wyre CCG, NHS Greater Preston CCG, NHS Morecambe Bay CCG and NHS West Lancashire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Blackburn with Darwen CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Blackpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Chorley and South Ribble CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Fylde and Wyre CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Preston CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Morecambe Bay CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000231": {
+        "Code": "E38000231",
+        "Name": "NHS Bath and North East Somerset, Swindon and Wiltshire CCG",
+        "ICS": "Bath and North East Somerset, Swindon and Wiltshire ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Bath and North East Somerset and Wiltshire ICS<\\/h2><br>The boundaries for your ICS have not changed.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bath and North East Somerset, Swindon and Wiltshire CCG<\\/td> <td><p class=\\\u201dcustom\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000220": {
+        "Code": "E38000220",
+        "Name": "NHS Birmingham and Solihull CCG",
+        "ICS": "Birmingham and Solihull ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Birmingham and Solihull ICS<\\/h2><br>The boundaries for your new ICS have not changed from NHS Birmingham and Solihull CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Birmingham and Solihull CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000222": {
+        "Code": "E38000222",
+        "Name": "NHS Bristol, North Somerset and South Gloucestershire CCG",
+        "ICS": "Bristol, North Somerset and South Gloucestershire ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Bristol, North Somerset and South Gloucestershire ICS<\\/h2><br>The boundaries for your new ICS have not changed from NHS Bristol, North Somerset and South Gloucestershire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bristol, North Somerset and South Gloucestershire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000136": {
+        "Code": "E38000136",
+        "Name": "NHS Oxfordshire CCG",
+        "ICS": "Buckinghamshire, Oxfordshire and Berkshire West ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Buckinghamshire, Oxfordshire and Berkshire West ICS<\\/h2><br>The boundaries for your new ICS now include NHS Berkshire West CCG, NHS Buckinghamshire CCG and NHS Oxfordshire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Berkshire West CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Buckinghamshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oxfordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000221": {
+        "Code": "E38000221",
+        "Name": "NHS Berkshire West CCG",
+        "ICS": "Buckinghamshire, Oxfordshire and Berkshire West ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Buckinghamshire, Oxfordshire and Berkshire West ICS<\\/h2><br>The boundaries for your new ICS now include NHS Berkshire West CCG, NHS Buckinghamshire CCG and NHS Oxfordshire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Berkshire West CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Buckinghamshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oxfordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000223": {
+        "Code": "E38000223",
+        "Name": "NHS Buckinghamshire CCG",
+        "ICS": "Buckinghamshire, Oxfordshire and Berkshire West ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Buckinghamshire, Oxfordshire and Berkshire West ICS<\\/h2><br>The boundaries for your new ICS now include NHS Berkshire West CCG, NHS Buckinghamshire CCG and NHS Oxfordshire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Berkshire West CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Buckinghamshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oxfordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000026": {
+        "Code": "E38000026",
+        "Name": "NHS Cambridgeshire and Peterborough CCG",
+        "ICS": "Cambridgeshire and Peterborough STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Cambridgeshire and Peterborough STP<\\/h2><br>The boundaries for your new ICS will have not changed from NHS Cambridgeshire and Peterborough CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cambridgeshire and Peterborough CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr>"
+    },
+    "E38000101": {
+        "Code": "E38000101",
+        "Name": "NHS Liverpool CCG",
+        "ICS": "Cheshire and Merseyside Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Cheshire and Merseyside Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Cheshire CCG, NHS Halton CCG, NHS Knowsley CCG, NHS Liverpool CCG, NHS South Sefton CCG, NHS Southport and Formby CCG, NHS St Helens CCG, NHS Warrington CCG and NHS Wirral CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cheshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Halton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Knowsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Liverpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Sefton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southport and Formby CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS St Helens CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Warrington CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wirral CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000194": {
+        "Code": "E38000194",
+        "Name": "NHS Warrington CCG",
+        "ICS": "Cheshire and Merseyside Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Cheshire and Merseyside Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Cheshire CCG, NHS Halton CCG, NHS Knowsley CCG, NHS Liverpool CCG, NHS South Sefton CCG, NHS Southport and Formby CCG, NHS St Helens CCG, NHS Warrington CCG and NHS Wirral CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cheshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Halton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Knowsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Liverpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Sefton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southport and Formby CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS St Helens CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Warrington CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wirral CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000068": {
+        "Code": "E38000068",
+        "Name": "NHS Halton CCG",
+        "ICS": "Cheshire and Merseyside Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Cheshire and Merseyside Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Cheshire CCG, NHS Halton CCG, NHS Knowsley CCG, NHS Liverpool CCG, NHS South Sefton CCG, NHS Southport and Formby CCG, NHS St Helens CCG, NHS Warrington CCG and NHS Wirral CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cheshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Halton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Knowsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Liverpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Sefton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southport and Formby CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS St Helens CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Warrington CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wirral CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000161": {
+        "Code": "E38000161",
+        "Name": "NHS South Sefton CCG",
+        "ICS": "Cheshire and Merseyside Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Cheshire and Merseyside Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Cheshire CCG, NHS Halton CCG, NHS Knowsley CCG, NHS Liverpool CCG, NHS South Sefton CCG, NHS Southport and Formby CCG, NHS St Helens CCG, NHS Warrington CCG and NHS Wirral CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cheshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Halton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Knowsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Liverpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Sefton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southport and Formby CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS St Helens CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Warrington CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wirral CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000091": {
+        "Code": "E38000091",
+        "Name": "NHS Knowsley CCG",
+        "ICS": "Cheshire and Merseyside Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Cheshire and Merseyside Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Cheshire CCG, NHS Halton CCG, NHS Knowsley CCG, NHS Liverpool CCG, NHS South Sefton CCG, NHS Southport and Formby CCG, NHS St Helens CCG, NHS Warrington CCG and NHS Wirral CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cheshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Halton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Knowsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Liverpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Sefton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southport and Formby CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS St Helens CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Warrington CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wirral CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000233": {
+        "Code": "E38000233",
+        "Name": "NHS Cheshire CCG",
+        "ICS": "Cheshire and Merseyside Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Cheshire and Merseyside Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Cheshire CCG, NHS Halton CCG, NHS Knowsley CCG, NHS Liverpool CCG, NHS South Sefton CCG, NHS Southport and Formby CCG, NHS St Helens CCG, NHS Warrington CCG and NHS Wirral CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cheshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Halton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Knowsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Liverpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Sefton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southport and Formby CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS St Helens CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Warrington CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wirral CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000172": {
+        "Code": "E38000172",
+        "Name": "NHS St Helens CCG",
+        "ICS": "Cheshire and Merseyside Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Cheshire and Merseyside Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Cheshire CCG, NHS Halton CCG, NHS Knowsley CCG, NHS Liverpool CCG, NHS South Sefton CCG, NHS Southport and Formby CCG, NHS St Helens CCG, NHS Warrington CCG and NHS Wirral CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cheshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Halton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Knowsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Liverpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Sefton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southport and Formby CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS St Helens CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Warrington CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wirral CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000208": {
+        "Code": "E38000208",
+        "Name": "NHS Wirral CCG",
+        "ICS": "Cheshire and Merseyside Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Cheshire and Merseyside Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Cheshire CCG, NHS Halton CCG, NHS Knowsley CCG, NHS Liverpool CCG, NHS South Sefton CCG, NHS Southport and Formby CCG, NHS St Helens CCG, NHS Warrington CCG and NHS Wirral CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cheshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Halton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Knowsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Liverpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Sefton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southport and Formby CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS St Helens CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Warrington CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wirral CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000170": {
+        "Code": "E38000170",
+        "Name": "NHS Southport and Formby CCG",
+        "ICS": "Cheshire and Merseyside Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Cheshire and Merseyside Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Cheshire CCG, NHS Halton CCG, NHS Knowsley CCG, NHS Liverpool CCG, NHS South Sefton CCG, NHS Southport and Formby CCG, NHS St Helens CCG, NHS Warrington CCG and NHS Wirral CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cheshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Halton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Knowsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Liverpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Sefton CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southport and Formby CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS St Helens CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Warrington CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wirral CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000089": {
+        "Code": "E38000089",
+        "Name": "NHS Kernow CCG",
+        "ICS": "Cornwall and the Isles of Scilly ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Cornwall and the Isles of Scilly ICS<\\/h2><br>The boundaries for your new ICS will have not changed from NHS Kernow CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Kernow CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000230": {
+        "Code": "E38000230",
+        "Name": "NHS Devon CCG",
+        "ICS": "Devon STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Devon STP<\\/h2><br>The boundaries for your new ICS will have not changed from NHS Devon CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Devon CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000045": {
+        "Code": "E38000045",
+        "Name": "NHS Dorset CCG",
+        "ICS": "Dorset ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Dorset ICS<\\/h2><br>The boundaries for your new ICS will have not changed from NHS Dorset CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Dorset CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000234": {
+        "Code": "E38000234",
+        "Name": "NHS County Durham CCG",
+        "ICS": "Durham, Darlington, Teesside, Hambleton, Richmondshire and Whitby STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Durham, Darlington, Teesside, Hambleton, Richmondshire and Whitby STP<\\/h2><br>The boundaries for your new ICS will include NHS County Durham CCG and NHS Tees Valley CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS County Durham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tees Valley CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000247": {
+        "Code": "E38000247",
+        "Name": "NHS Tees Valley CCG",
+        "ICS": "Durham, Darlington, Teesside, Hambleton, Richmondshire and Whitby STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Durham, Darlington, Teesside, Hambleton, Richmondshire and Whitby STP<\\/h2><br>The boundaries for your new ICS will include NHS County Durham CCG and NHS Tees Valley CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS County Durham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tees Valley CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000016": {
+        "Code": "E38000016",
+        "Name": "NHS Bolton CCG",
+        "ICS": "Greater Manchester Health and Social Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Greater Manchester Health and Social Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bolton CCG, NHS Bury CCG, NHS Heywood, Middleton and Rochdale CCG, NHS Manchester CCG, NHS Oldham CCG, NHS Salford CCG, NHS Stockport CCG, NHS Tameside and Glossop CCG, NHS Trafford CCG and NHS Wigan Borough CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bolton CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bury CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Heywood, Middleton and Rochdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Manchester CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oldham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Salford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stockport CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tameside and Glossop CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Trafford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wigan Borough CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000080": {
+        "Code": "E38000080",
+        "Name": "NHS Heywood, Middleton and Rochdale CCG",
+        "ICS": "Greater Manchester Health and Social Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Greater Manchester Health and Social Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bolton CCG, NHS Bury CCG, NHS Heywood, Middleton and Rochdale CCG, NHS Manchester CCG, NHS Oldham CCG, NHS Salford CCG, NHS Stockport CCG, NHS Tameside and Glossop CCG, NHS Trafford CCG and NHS Wigan Borough CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bolton CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bury CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Heywood, Middleton and Rochdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Manchester CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oldham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Salford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stockport CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tameside and Glossop CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Trafford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wigan Borough CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000143": {
+        "Code": "E38000143",
+        "Name": "NHS Salford CCG",
+        "ICS": "Greater Manchester Health and Social Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Greater Manchester Health and Social Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bolton CCG, NHS Bury CCG, NHS Heywood, Middleton and Rochdale CCG, NHS Manchester CCG, NHS Oldham CCG, NHS Salford CCG, NHS Stockport CCG, NHS Tameside and Glossop CCG, NHS Trafford CCG and NHS Wigan Borough CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bolton CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bury CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Heywood, Middleton and Rochdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Manchester CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oldham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Salford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stockport CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tameside and Glossop CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Trafford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wigan Borough CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000187": {
+        "Code": "E38000187",
+        "Name": "NHS Trafford CCG",
+        "ICS": "Greater Manchester Health and Social Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Greater Manchester Health and Social Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bolton CCG, NHS Bury CCG, NHS Heywood, Middleton and Rochdale CCG, NHS Manchester CCG, NHS Oldham CCG, NHS Salford CCG, NHS Stockport CCG, NHS Tameside and Glossop CCG, NHS Trafford CCG and NHS Wigan Borough CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bolton CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bury CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Heywood, Middleton and Rochdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Manchester CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oldham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Salford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stockport CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tameside and Glossop CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Trafford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wigan Borough CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000205": {
+        "Code": "E38000205",
+        "Name": "NHS Wigan Borough CCG",
+        "ICS": "Greater Manchester Health and Social Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Greater Manchester Health and Social Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bolton CCG, NHS Bury CCG, NHS Heywood, Middleton and Rochdale CCG, NHS Manchester CCG, NHS Oldham CCG, NHS Salford CCG, NHS Stockport CCG, NHS Tameside and Glossop CCG, NHS Trafford CCG and NHS Wigan Borough CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bolton CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bury CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Heywood, Middleton and Rochdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Manchester CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oldham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Salford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stockport CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tameside and Glossop CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Trafford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wigan Borough CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000217": {
+        "Code": "E38000217",
+        "Name": "NHS Manchester CCG",
+        "ICS": "Greater Manchester Health and Social Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Greater Manchester Health and Social Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bolton CCG, NHS Bury CCG, NHS Heywood, Middleton and Rochdale CCG, NHS Manchester CCG, NHS Oldham CCG, NHS Salford CCG, NHS Stockport CCG, NHS Tameside and Glossop CCG, NHS Trafford CCG and NHS Wigan Borough CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bolton CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bury CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Heywood, Middleton and Rochdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Manchester CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oldham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Salford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stockport CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tameside and Glossop CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Trafford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wigan Borough CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000135": {
+        "Code": "E38000135",
+        "Name": "NHS Oldham CCG",
+        "ICS": "Greater Manchester Health and Social Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Greater Manchester Health and Social Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bolton CCG, NHS Bury CCG, NHS Heywood, Middleton and Rochdale CCG, NHS Manchester CCG, NHS Oldham CCG, NHS Salford CCG, NHS Stockport CCG, NHS Tameside and Glossop CCG, NHS Trafford CCG and NHS Wigan Borough CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bolton CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bury CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Heywood, Middleton and Rochdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Manchester CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oldham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Salford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stockport CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tameside and Glossop CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Trafford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wigan Borough CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000174": {
+        "Code": "E38000174",
+        "Name": "NHS Stockport CCG",
+        "ICS": "Greater Manchester Health and Social Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Greater Manchester Health and Social Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bolton CCG, NHS Bury CCG, NHS Heywood, Middleton and Rochdale CCG, NHS Manchester CCG, NHS Oldham CCG, NHS Salford CCG, NHS Stockport CCG, NHS Tameside and Glossop CCG, NHS Trafford CCG and NHS Wigan Borough CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bolton CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bury CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Heywood, Middleton and Rochdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Manchester CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oldham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Salford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stockport CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tameside and Glossop CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Trafford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wigan Borough CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000024": {
+        "Code": "E38000024",
+        "Name": "NHS Bury CCG",
+        "ICS": "Greater Manchester Health and Social Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Greater Manchester Health and Social Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bolton CCG, NHS Bury CCG, NHS Heywood, Middleton and Rochdale CCG, NHS Manchester CCG, NHS Oldham CCG, NHS Salford CCG, NHS Stockport CCG, NHS Tameside and Glossop CCG, NHS Trafford CCG and NHS Wigan Borough CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bolton CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bury CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Heywood, Middleton and Rochdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Manchester CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oldham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Salford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stockport CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tameside and Glossop CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Trafford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wigan Borough CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000182": {
+        "Code": "E38000182",
+        "Name": "NHS Tameside and Glossop CCG",
+        "ICS": "Greater Manchester Health and Social Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Greater Manchester Health and Social Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bolton CCG, NHS Bury CCG, NHS Heywood, Middleton and Rochdale CCG, NHS Manchester CCG, NHS Oldham CCG, NHS Salford CCG, NHS Stockport CCG, NHS Tameside and Glossop CCG, NHS Trafford CCG and NHS Wigan Borough CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bolton CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bury CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Heywood, Middleton and Rochdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Manchester CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Oldham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Salford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stockport CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Tameside and Glossop CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Trafford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wigan Borough CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000137": {
+        "Code": "E38000137",
+        "Name": "NHS Portsmouth CCG",
+        "ICS": "Hampshire and the Isle of Wight ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Hampshire and the Isle of Wight ICS<\\/h2><br>The boundaries for your new ICS will include NHS Fareham and Gosport CCG, NHS Isle of Wight CCG, NHS North Hampshire CCG, NHS Portsmouth CCG, NHS Manchester CCG, NHS South Eastern Hampshire CCG, NHS Southampton CCG and NHS West Hampshire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Fareham and Gosport CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Isle of Wight CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Hampshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Portsmouth CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Eastern Hampshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southampton CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Hampshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000236": {
+        "Code": "E38000236",
+        "Name": "NHS Herefordshire and Worcestershire CCG",
+        "ICS": "Herefordshire and Worcestershire STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Herefordshire and Worcestershire STP<\\/h2><br>The boundaries for your new ICS have not changed from NHS Herefordshire and Worcestershire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Herefordshire and Worcestershire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000197": {
+        "Code": "E38000197",
+        "Name": "NHS West Essex CCG",
+        "ICS": "Hertfordshire and West Essex ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Hertfordshire and West Essex ICS<\\/h2><br>The boundaries for your new ICS will include NHS East and North Hertfordshire CCG, NHS Herts Valleys CCG and NHS West Essex CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East and North Hertfordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Herts Valleys CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Essex CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000049": {
+        "Code": "E38000049",
+        "Name": "NHS East and North Hertfordshire CCG",
+        "ICS": "Hertfordshire and West Essex ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Hertfordshire and West Essex ICS<\\/h2><br>The boundaries for your new ICS will include NHS East and North Hertfordshire CCG, NHS Herts Valleys CCG and NHS West Essex CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East and North Hertfordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Herts Valleys CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Essex CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000079": {
+        "Code": "E38000079",
+        "Name": "NHS Herts Valleys CCG",
+        "ICS": "Hertfordshire and West Essex ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Hertfordshire and West Essex ICS<\\/h2><br>The boundaries for your new ICS will include NHS East and North Hertfordshire CCG, NHS Herts Valleys CCG and NHS West Essex CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East and North Hertfordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Herts Valleys CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Essex CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000052": {
+        "Code": "E38000052",
+        "Name": "NHS East Riding of Yorkshire CCG",
+        "ICS": "Humber, Coast and Vale ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Humber, Coast and Vale ICS<\\/h2><br>The boundaries for your new ICS will include NHS East Riding of Yorkshire CCG, NHS Hull CCGG, NHS North East Lincolnshire CCG, NHS North Lincolnshire CCG, NHS North Yorkshire CCG and NHS NHS Vale of York CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East Riding of Yorkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Hull CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North East Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Yorkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Vale of York CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000085": {
+        "Code": "E38000085",
+        "Name": "NHS Hull CCG",
+        "ICS": "Humber, Coast and Vale ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Humber, Coast and Vale ICS<\\/h2><br>The boundaries for your new ICS will include NHS East Riding of Yorkshire CCG, NHS Hull CCGG, NHS North East Lincolnshire CCG, NHS North Lincolnshire CCG, NHS North Yorkshire CCG and NHS NHS Vale of York CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East Riding of Yorkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Hull CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North East Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Yorkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Vale of York CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000119": {
+        "Code": "E38000119",
+        "Name": "NHS North East Lincolnshire CCG",
+        "ICS": "Humber, Coast and Vale ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Humber, Coast and Vale ICS<\\/h2><br>The boundaries for your new ICS will include NHS East Riding of Yorkshire CCG, NHS Hull CCGG, NHS North East Lincolnshire CCG, NHS North Lincolnshire CCG, NHS North Yorkshire CCG and NHS NHS Vale of York CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East Riding of Yorkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Hull CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North East Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Yorkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Vale of York CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000188": {
+        "Code": "E38000188",
+        "Name": "NHS Vale of York CCG",
+        "ICS": "Humber, Coast and Vale ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Humber, Coast and Vale ICS<\\/h2><br>The boundaries for your new ICS will include NHS East Riding of Yorkshire CCG, NHS Hull CCGG, NHS North East Lincolnshire CCG, NHS North Lincolnshire CCG, NHS North Yorkshire CCG and NHS NHS Vale of York CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East Riding of Yorkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Hull CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North East Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Yorkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Vale of York CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000122": {
+        "Code": "E38000122",
+        "Name": "NHS North Lincolnshire CCG",
+        "ICS": "Humber, Coast and Vale ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Humber, Coast and Vale ICS<\\/h2><br>The boundaries for your new ICS will include NHS East Riding of Yorkshire CCG, NHS Hull CCGG, NHS North East Lincolnshire CCG, NHS North Lincolnshire CCG, NHS North Yorkshire CCG and NHS NHS Vale of York CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East Riding of Yorkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Hull CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North East Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Yorkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Vale of York CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000241": {
+        "Code": "E38000241",
+        "Name": "NHS North Yorkshire CCG",
+        "ICS": "Humber, Coast and Vale ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Humber, Coast and Vale ICS<\\/h2><br>The boundaries for your new ICS will include NHS East Riding of Yorkshire CCG, NHS Hull CCGG, NHS North East Lincolnshire CCG, NHS North Lincolnshire CCG, NHS North Yorkshire CCG and NHS NHS Vale of York CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East Riding of Yorkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Hull CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North East Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Yorkshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Vale of York CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000229": {
+        "Code": "E38000229",
+        "Name": "NHS Derby and Derbyshire CCG",
+        "ICS": "Joined Up Care Derbyshire ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Joined Up Care Derbyshire ICS<\\/h2><br>The boundaries for your new ICS have not changed from NHS Derby and Derbyshire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Derby and Derbyshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000237": {
+        "Code": "E38000237",
+        "Name": "NHS Kent and Medway CCG",
+        "ICS": "Kent and Medway STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Kent and Medway STP<\\/h2><br>The boundaries for your new ICS have not changed from NHS Kent and Medway CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Kent and Medway CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000227": {
+        "Code": "E38000227",
+        "Name": "NHS Greater Preston CCG",
+        "ICS": "Lancashire and South Cumbria ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Lancashire and South Cumbria ICS<\\/h2><br>The boundaries for your new ICS will include NHS Blackburn with Darwen CCG, NHS Blackpool CCG, NHS Chorley and South Ribble CCG, NHS East Lancashire CCG, NHS Fylde and Wyre CCG, NHS Greater Preston CCG, NHS Morecambe Bay CCG and NHS West Lancashire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Blackburn with Darwen CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Blackpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Chorley and South Ribble CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Fylde and Wyre CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Preston CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Morecambe Bay CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000050": {
+        "Code": "E38000050",
+        "Name": "NHS East Lancashire CCG",
+        "ICS": "Lancashire and South Cumbria ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Lancashire and South Cumbria ICS<\\/h2><br>The boundaries for your new ICS will include NHS Blackburn with Darwen CCG, NHS Blackpool CCG, NHS Chorley and South Ribble CCG, NHS East Lancashire CCG, NHS Fylde and Wyre CCG, NHS Greater Preston CCG, NHS Morecambe Bay CCG and NHS West Lancashire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Blackburn with Darwen CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Blackpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Chorley and South Ribble CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Fylde and Wyre CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Preston CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Morecambe Bay CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000200": {
+        "Code": "E38000200",
+        "Name": "NHS West Lancashire CCG",
+        "ICS": "Lancashire and South Cumbria ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Lancashire and South Cumbria ICS<\\/h2><br>The boundaries for your new ICS will include NHS Blackburn with Darwen CCG, NHS Blackpool CCG, NHS Chorley and South Ribble CCG, NHS East Lancashire CCG, NHS Fylde and Wyre CCG, NHS Greater Preston CCG, NHS Morecambe Bay CCG and NHS West Lancashire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Blackburn with Darwen CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Blackpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Chorley and South Ribble CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Fylde and Wyre CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Preston CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Morecambe Bay CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000228": {
+        "Code": "E38000228",
+        "Name": "NHS Morecambe Bay CCG",
+        "ICS": "Lancashire and South Cumbria ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Lancashire and South Cumbria ICS<\\/h2><br>The boundaries for your new ICS will include NHS Blackburn with Darwen CCG, NHS Blackpool CCG, NHS Chorley and South Ribble CCG, NHS East Lancashire CCG, NHS Fylde and Wyre CCG, NHS Greater Preston CCG, NHS Morecambe Bay CCG and NHS West Lancashire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Blackburn with Darwen CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Blackpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Chorley and South Ribble CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Fylde and Wyre CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Preston CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Morecambe Bay CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000034": {
+        "Code": "E38000034",
+        "Name": "NHS Chorley and South Ribble CCG",
+        "ICS": "Lancashire and South Cumbria ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Lancashire and South Cumbria ICS<\\/h2><br>The boundaries for your new ICS will include NHS Blackburn with Darwen CCG, NHS Blackpool CCG, NHS Chorley and South Ribble CCG, NHS East Lancashire CCG, NHS Fylde and Wyre CCG, NHS Greater Preston CCG, NHS Morecambe Bay CCG and NHS West Lancashire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Blackburn with Darwen CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Blackpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Chorley and South Ribble CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Fylde and Wyre CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Preston CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Morecambe Bay CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000014": {
+        "Code": "E38000014",
+        "Name": "NHS Blackburn with Darwen CCG",
+        "ICS": "Lancashire and South Cumbria ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Lancashire and South Cumbria ICS<\\/h2><br>The boundaries for your new ICS will include NHS Blackburn with Darwen CCG, NHS Blackpool CCG, NHS Chorley and South Ribble CCG, NHS East Lancashire CCG, NHS Fylde and Wyre CCG, NHS Greater Preston CCG, NHS Morecambe Bay CCG and NHS West Lancashire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Blackburn with Darwen CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Blackpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Chorley and South Ribble CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Fylde and Wyre CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Preston CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Morecambe Bay CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000015": {
+        "Code": "E38000015",
+        "Name": "NHS Blackpool CCG",
+        "ICS": "Lancashire and South Cumbria ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Lancashire and South Cumbria ICS<\\/h2><br>The boundaries for your new ICS will include NHS Blackburn with Darwen CCG, NHS Blackpool CCG, NHS Chorley and South Ribble CCG, NHS East Lancashire CCG, NHS Fylde and Wyre CCG, NHS Greater Preston CCG, NHS Morecambe Bay CCG and NHS West Lancashire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Blackburn with Darwen CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Blackpool CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Chorley and South Ribble CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Fylde and Wyre CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Preston CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Morecambe Bay CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Lancashire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000201": {
+        "Code": "E38000201",
+        "Name": "NHS West Leicestershire CCG",
+        "ICS": "Leicester, Leicestershire and Rutland STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Leicester, Leicestershire and Rutland STP<\\/h2><br>The boundaries for your new ICS will include NHS East Leicestershire and Rutland CCG, NHS Leicester City CCG and NHS West Leicestershire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East Leicestershire and Rutland CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Leicester City CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Leicestershire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000097": {
+        "Code": "E38000097",
+        "Name": "NHS Leicester City CCG",
+        "ICS": "Leicester, Leicestershire and Rutland STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Leicester, Leicestershire and Rutland STP<\\/h2><br>The boundaries for your new ICS will include NHS East Leicestershire and Rutland CCG, NHS Leicester City CCG and NHS West Leicestershire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East Leicestershire and Rutland CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Leicester City CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Leicestershire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000238": {
+        "Code": "E38000238",
+        "Name": "NHS Lincolnshire CCG",
+        "ICS": "Lincolnshire STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Lincolnshire STP<\\/h2><br>The boundaries for your new ICS have not changed from NHS Lincolnshire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Lincolnshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000007": {
+        "Code": "E38000007",
+        "Name": "NHS Basildon and Brentwood CCG",
+        "ICS": "Mid and South Essex Health & Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Mid and South Essex Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Basildon and Brentwood CCG,NHS Castle Point and Rochford CCG, NHS Mid Essex CCG, NHS Southend CCG and NHS Thurrock CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Basildon and Brentwood CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Castle Point and Rochford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Mid Essex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southend CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Thurrock CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000185": {
+        "Code": "E38000185",
+        "Name": "NHS Thurrock CCG",
+        "ICS": "Mid and South Essex Health & Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Mid and South Essex Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Basildon and Brentwood CCG,NHS Castle Point and Rochford CCG, NHS Mid Essex CCG, NHS Southend CCG and NHS Thurrock CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Basildon and Brentwood CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Castle Point and Rochford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Mid Essex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southend CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Thurrock CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000168": {
+        "Code": "E38000168",
+        "Name": "NHS Southend CCG",
+        "ICS": "Mid and South Essex Health & Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Mid and South Essex Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Basildon and Brentwood CCG,NHS Castle Point and Rochford CCG, NHS Mid Essex CCG, NHS Southend CCG and NHS Thurrock CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Basildon and Brentwood CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Castle Point and Rochford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Mid Essex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southend CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Thurrock CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000106": {
+        "Code": "E38000106",
+        "Name": "NHS Mid Essex CCG",
+        "ICS": "Mid and South Essex Health & Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Mid and South Essex Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Basildon and Brentwood CCG,NHS Castle Point and Rochford CCG, NHS Mid Essex CCG, NHS Southend CCG and NHS Thurrock CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Basildon and Brentwood CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Castle Point and Rochford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Mid Essex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southend CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Thurrock CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000239": {
+        "Code": "E38000239",
+        "Name": "NHS Norfolk and Waveney CCG",
+        "ICS": "Norfolk and Waveney ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Norfolk and Waveney ICS<\\/h2><br>The boundaries for your new ICS have not changed from NHS Norfolk and Waveney CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Norfolk and Waveney CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000240": {
+        "Code": "E38000240",
+        "Name": "NHS North Central London CCG",
+        "ICS": "North Central London ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is North Central London ICS<\\/h2><br>The boundaries for your new ICS have not changed from NHS North Central London CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS North Central London CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000215": {
+        "Code": "E38000215",
+        "Name": "NHS North Cumbria CCG",
+        "ICS": "North Cumbria Health and Care System",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is North Cumbria Health and Care System<\\/h2><br>The boundaries for your new ICS have not changed from NHS North Cumbria CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS North Cumbria CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000242": {
+        "Code": "E38000242",
+        "Name": "NHS Northamptonshire CCG",
+        "ICS": "Northamptonshire STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Northamptonshire STP<\\/h2><br>The boundaries for your new ICS have not changed from NHS Northamptonshire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Northamptonshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000127": {
+        "Code": "E38000127",
+        "Name": "NHS North Tyneside CCG",
+        "ICS": "Northumberland, Tyne and Wear and North Durham STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Northumberland, Tyne and Wear and North Durham STP<\\/h2><br>The boundaries for your new ICS will include NHS Newcastle Gateshead CCG, NHS North Tyneside CCG, NHS Northumberland CCG, NHS South Tyneside CCG and NHS Sunderland CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Newcastle Gateshead CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Tyneside CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Northumberland CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Tyneside CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Sunderland CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000212": {
+        "Code": "E38000212",
+        "Name": "NHS Newcastle Gateshead CCG",
+        "ICS": "Northumberland, Tyne and Wear and North Durham STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Northumberland, Tyne and Wear and North Durham STP<\\/h2><br>The boundaries for your new ICS will include NHS Newcastle Gateshead CCG, NHS North Tyneside CCG, NHS Northumberland CCG, NHS South Tyneside CCG and NHS Sunderland CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Newcastle Gateshead CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Tyneside CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Northumberland CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Tyneside CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Sunderland CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000130": {
+        "Code": "E38000130",
+        "Name": "NHS Northumberland CCG",
+        "ICS": "Northumberland, Tyne and Wear and North Durham STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Northumberland, Tyne and Wear and North Durham STP<\\/h2><br>The boundaries for your new ICS will include NHS Newcastle Gateshead CCG, NHS North Tyneside CCG, NHS Northumberland CCG, NHS South Tyneside CCG and NHS Sunderland CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Newcastle Gateshead CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Tyneside CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Northumberland CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Tyneside CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Sunderland CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000163": {
+        "Code": "E38000163",
+        "Name": "NHS South Tyneside CCG",
+        "ICS": "Northumberland, Tyne and Wear and North Durham STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Northumberland, Tyne and Wear and North Durham STP<\\/h2><br>The boundaries for your new ICS will include NHS Newcastle Gateshead CCG, NHS North Tyneside CCG, NHS Northumberland CCG, NHS South Tyneside CCG and NHS Sunderland CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Newcastle Gateshead CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Tyneside CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Northumberland CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Tyneside CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Sunderland CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000176": {
+        "Code": "E38000176",
+        "Name": "NHS Sunderland CCG",
+        "ICS": "Northumberland, Tyne and Wear and North Durham STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Northumberland, Tyne and Wear and North Durham STP<\\/h2><br>The boundaries for your new ICS will include NHS Newcastle Gateshead CCG, NHS North Tyneside CCG, NHS Northumberland CCG, NHS South Tyneside CCG and NHS Sunderland CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Newcastle Gateshead CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Tyneside CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Northumberland CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South Tyneside CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Sunderland CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000243": {
+        "Code": "E38000243",
+        "Name": "NHS Nottingham and Nottinghamshire CCG",
+        "ICS": "Nottingham and Nottinghamshire ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Nottingham and Nottinghamshire ICS<\\/h2><br>The boundaries for your new ICS have not changed from NHS Nottingham and Nottinghamshire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Nottingham and Nottinghamshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000062": {
+        "Code": "E38000062",
+        "Name": "NHS Gloucestershire CCG",
+        "ICS": "One Gloucestershire",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is One Gloucestershire<\\/h2><br>The boundaries for your new ICS have not changed from NHS Gloucestershire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Gloucestershire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000150": {
+        "Code": "E38000150",
+        "Name": "NHS Somerset CCG",
+        "ICS": "Somerset ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Somerset ICS<\\/h2><br>The boundaries for your new ICS have not changed from NHS Somerset CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Somerset CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000244": {
+        "Code": "E38000244",
+        "Name": "NHS South East London CCG",
+        "ICS": "South East London ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is South East London ICS<\\/h2><br>The boundaries for your new ICS have not changed from NHS South East London CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS South East London CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000245": {
+        "Code": "E38000245",
+        "Name": "NHS South West London CCG",
+        "ICS": "South West London Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is South West London Health and Care Partnership<\\/h2><br>The boundaries for your new ICS have not changed from NHS South West London CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS South West London CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000006": {
+        "Code": "E38000006",
+        "Name": "NHS Barnsley CCG",
+        "ICS": "South Yorkshire & Bassetlaw ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is South Yorkshire and Bassetlaw ICS<\\/h2><br>The boundaries for your new ICS will include NHS Barnsley CCG, NHS Bassetlaw CCG, NHS Doncaster CCG, NHS Rotherham CCG and NHS Sheffield CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Barnsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bassetlaw CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Doncaster CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Rotherham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Sheffield CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000044": {
+        "Code": "E38000044",
+        "Name": "NHS Doncaster CCG",
+        "ICS": "South Yorkshire & Bassetlaw ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is South Yorkshire and Bassetlaw ICS<\\/h2><br>The boundaries for your new ICS will include NHS Barnsley CCG, NHS Bassetlaw CCG, NHS Doncaster CCG, NHS Rotherham CCG and NHS Sheffield CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Barnsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bassetlaw CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Doncaster CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Rotherham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Sheffield CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000141": {
+        "Code": "E38000141",
+        "Name": "NHS Rotherham CCG",
+        "ICS": "South Yorkshire & Bassetlaw ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is South Yorkshire and Bassetlaw ICS<\\/h2><br>The boundaries for your new ICS will include NHS Barnsley CCG, NHS Bassetlaw CCG, NHS Doncaster CCG, NHS Rotherham CCG and NHS Sheffield CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Barnsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bassetlaw CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Doncaster CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Rotherham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Sheffield CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000146": {
+        "Code": "E38000146",
+        "Name": "NHS Sheffield CCG",
+        "ICS": "South Yorkshire & Bassetlaw ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is South Yorkshire and Bassetlaw ICS<\\/h2><br>The boundaries for your new ICS will include NHS Barnsley CCG, NHS Bassetlaw CCG, NHS Doncaster CCG, NHS Rotherham CCG and NHS Sheffield CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Barnsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bassetlaw CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Doncaster CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Rotherham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Sheffield CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000008": {
+        "Code": "E38000008",
+        "Name": "NHS Bassetlaw CCG",
+        "ICS": "South Yorkshire & Bassetlaw ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is South Yorkshire and Bassetlaw ICS<\\/h2><br>The boundaries for your new ICS will include NHS Barnsley CCG, NHS Bassetlaw CCG, NHS Doncaster CCG, NHS Rotherham CCG and NHS Sheffield CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Barnsley CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Bassetlaw CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Doncaster CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Rotherham CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Sheffield CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000028": {
+        "Code": "E38000028",
+        "Name": "NHS Cannock Chase CCG",
+        "ICS": "Staffordshire and Stoke on Trent STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Staffordshire and Stoke on Trent STP<\\/h2><br>The boundaries for your new ICS will include NHS Cannock Chase CCG, NHS East Staffordshire CCG, NHS North Staffordshire CCG, NHS South East Staffordshire and Seisdon Peninsula CCG, NHS Stafford and Surrounds CCG and NHS Stoke-on-Trent CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cannock Chase CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Staffordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Staffordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South East Staffordshire and Seisdon Peninsula CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stafford and Surrounds CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stoke-on-Trent CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000053": {
+        "Code": "E38000053",
+        "Name": "NHS East Staffordshire CCG",
+        "ICS": "Staffordshire and Stoke on Trent STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Staffordshire and Stoke on Trent STP<\\/h2><br>The boundaries for your new ICS will include NHS Cannock Chase CCG, NHS East Staffordshire CCG, NHS North Staffordshire CCG, NHS South East Staffordshire and Seisdon Peninsula CCG, NHS Stafford and Surrounds CCG and NHS Stoke-on-Trent CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cannock Chase CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Staffordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Staffordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South East Staffordshire and Seisdon Peninsula CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stafford and Surrounds CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stoke-on-Trent CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000173": {
+        "Code": "E38000173",
+        "Name": "NHS Stafford and Surrounds CCG",
+        "ICS": "Staffordshire and Stoke on Trent STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Staffordshire and Stoke on Trent STP<\\/h2><br>The boundaries for your new ICS will include NHS Cannock Chase CCG, NHS East Staffordshire CCG, NHS North Staffordshire CCG, NHS South East Staffordshire and Seisdon Peninsula CCG, NHS Stafford and Surrounds CCG and NHS Stoke-on-Trent CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cannock Chase CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Staffordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Staffordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South East Staffordshire and Seisdon Peninsula CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stafford and Surrounds CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stoke-on-Trent CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000126": {
+        "Code": "E38000126",
+        "Name": "NHS North Staffordshire CCG",
+        "ICS": "Staffordshire and Stoke on Trent STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Staffordshire and Stoke on Trent STP<\\/h2><br>The boundaries for your new ICS will include NHS Cannock Chase CCG, NHS East Staffordshire CCG, NHS North Staffordshire CCG, NHS South East Staffordshire and Seisdon Peninsula CCG, NHS Stafford and Surrounds CCG and NHS Stoke-on-Trent CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cannock Chase CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Staffordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Staffordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South East Staffordshire and Seisdon Peninsula CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stafford and Surrounds CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stoke-on-Trent CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000204": {
+        "Code": "E38000204",
+        "Name": "NHS West Suffolk CCG",
+        "ICS": "Suffolk and North East Essex ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Suffolk and North East Essex ICS<\\/h2><br>The boundaries for your new ICS will include NHS Ipswich and East Suffolk CCG, NHS North East Essex CCG and NHS West Suffolk CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Ipswich and East Suffolk CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North East Essex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Suffolk CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000086": {
+        "Code": "E38000086",
+        "Name": "NHS Ipswich and East Suffolk CCG",
+        "ICS": "Suffolk and North East Essex ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Suffolk and North East Essex ICS<\\/h2><br>The boundaries for your new ICS will include NHS Ipswich and East Suffolk CCG, NHS North East Essex CCG and NHS West Suffolk CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Ipswich and East Suffolk CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North East Essex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Suffolk CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000117": {
+        "Code": "E38000117",
+        "Name": "NHS North East Essex CCG",
+        "ICS": "Suffolk and North East Essex ICS",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Suffolk and North East Essex ICS<\\/h2><br>The boundaries for your new ICS will include NHS Ipswich and East Suffolk CCG, NHS North East Essex CCG and NHS West Suffolk CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Ipswich and East Suffolk CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North East Essex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Suffolk CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000246": {
+        "Code": "E38000246",
+        "Name": "NHS Surrey Heartlands CCG",
+        "ICS": "Surrey Heartlands Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Surrey Heartlands Health and Care Partnership<\\/h2><br>The boundaries for your new ICS have not changed from NHS Surrey Heartlands CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Surrey Heartlands CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000021": {
+        "Code": "E38000021",
+        "Name": "NHS Brighton and Hove CCG",
+        "ICS": "Sussex Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Sussex Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Ipswich and East Suffolk CCG, NHS North East Essex CCG and NHS West Suffolk CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Brighton and Hove CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Sussex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Sussex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000248": {
+        "Code": "E38000248",
+        "Name": "NHS West Sussex CCG",
+        "ICS": "Sussex Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Sussex Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Ipswich and East Suffolk CCG, NHS North East Essex CCG and NHS West Suffolk CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Brighton and Hove CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Sussex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Sussex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000235": {
+        "Code": "E38000235",
+        "Name": "NHS East Sussex CCG",
+        "ICS": "Sussex Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Sussex Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Ipswich and East Suffolk CCG, NHS North East Essex CCG and NHS West Suffolk CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Brighton and Hove CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Sussex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Sussex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000190": {
+        "Code": "E38000190",
+        "Name": "NHS Wakefield CCG",
+        "ICS": "West Yorkshire and Harrogate Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is West Yorkshire and Harrogate Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bradford District and Craven CCG, NHS Calderdale CCG, NHS Greater Huddersfield CCG, NHS Leeds CCG, NHS North Kirklees CCG and NHS Wakefield CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bradford District and Craven CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Calderdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Huddersfield CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Leeds CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Kirklees CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wakefield CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000232": {
+        "Code": "E38000232",
+        "Name": "NHS Bradford District and Craven CCG",
+        "ICS": "West Yorkshire and Harrogate Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is West Yorkshire and Harrogate Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bradford District and Craven CCG, NHS Calderdale CCG, NHS Greater Huddersfield CCG, NHS Leeds CCG, NHS North Kirklees CCG and NHS Wakefield CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bradford District and Craven CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Calderdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Huddersfield CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Leeds CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Kirklees CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wakefield CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000225": {
+        "Code": "E38000225",
+        "Name": "NHS Leeds CCG",
+        "ICS": "West Yorkshire and Harrogate Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is West Yorkshire and Harrogate Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bradford District and Craven CCG, NHS Calderdale CCG, NHS Greater Huddersfield CCG, NHS Leeds CCG, NHS North Kirklees CCG and NHS Wakefield CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bradford District and Craven CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Calderdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Huddersfield CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Leeds CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Kirklees CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wakefield CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000025": {
+        "Code": "E38000025",
+        "Name": "NHS Calderdale CCG",
+        "ICS": "West Yorkshire and Harrogate Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is West Yorkshire and Harrogate Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bradford District and Craven CCG, NHS Calderdale CCG, NHS Greater Huddersfield CCG, NHS Leeds CCG, NHS North Kirklees CCG and NHS Wakefield CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bradford District and Craven CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Calderdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Huddersfield CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Leeds CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Kirklees CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wakefield CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000030": {
+        "Code": "E38000030",
+        "Name": "NHS Castle Point and Rochford CCG",
+        "ICS": "Mid and South Essex Health & Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Mid and South Essex Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Basildon and Brentwood CCG,NHS Castle Point and Rochford CCG, NHS Mid Essex CCG, NHS Southend CCG and NHS Thurrock CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Basildon and Brentwood CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Castle Point and Rochford CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Mid Essex CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Southend CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Thurrock CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000051": {
+        "Code": "E38000051",
+        "Name": "NHS East Leicestershire and Rutland CCG",
+        "ICS": "Leicester, Leicestershire and Rutland STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Leicester, Leicestershire and Rutland STP<\\/h2><br>The boundaries for your new ICS will include NHS East Leicestershire and Rutland CCG, NHS Leicester City CCG and NHS West Leicestershire CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS East Leicestershire and Rutland CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Leicester City CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS West Leicestershire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr><\\/table>"
+    },
+    "E38000254": {
+        "Code": "E38000254",
+        "Name": "NHS Kirklees CCG",
+        "ICS": "West Yorkshire and Harrogate Health and Care Partnership",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is West Yorkshire and Harrogate Health and Care Partnership<\\/h2><br>The boundaries for your new ICS will include NHS Bradford District and Craven CCG, NHS Calderdale CCG, NHS Greater Huddersfield CCG, NHS Leeds CCG, NHS North Kirklees CCG and NHS Wakefield CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Bradford District and Craven CCG<\\/td> <td><p class=\\\u201dcustomccgresultyellow\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Calderdale CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Greater Huddersfield CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Leeds CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Kirklees CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Wakefield CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000153": {
+        "Code": "E38000153",
+        "Name": "NHS South East Staffordshire and Seisdon Peninsula CCG",
+        "ICS": "Staffordshire and Stoke on Trent STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Staffordshire and Stoke on Trent STP<\\/h2><br>The boundaries for your new ICS will include NHS Cannock Chase CCG, NHS East Staffordshire CCG, NHS North Staffordshire CCG, NHS South East Staffordshire and Seisdon Peninsula CCG, NHS Stafford and Surrounds CCG and NHS Stoke-on-Trent CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cannock Chase CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Staffordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Staffordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South East Staffordshire and Seisdon Peninsula CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stafford and Surrounds CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stoke-on-Trent CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    },
+    "E38000175": {
+        "Code": "E38000175",
+        "Name": "NHS Stoke on Trent CCG",
+        "ICS": "Staffordshire and Stoke on Trent STP",
+        "Already changed": "NO",
+        "HTML": "<h2>Your new ICS is Staffordshire and Stoke on Trent STP<\\/h2><br>The boundaries for your new ICS will include NHS Cannock Chase CCG, NHS East Staffordshire CCG, NHS North Staffordshire CCG, NHS South East Staffordshire and Seisdon Peninsula CCG, NHS Stafford and Surrounds CCG and NHS Stoke-on-Trent CCG.<table class=\\\u201dccg_table\\\u201d><thead><tr> <th>Previous CCG<\\/th> <th>Result<\\/th> <\\/tr><\\/thead> <tr> <td>NHS Cannock Chase CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS East Staffordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS North Staffordshire CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS South East Staffordshire and Seisdon Peninsula CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stafford and Surrounds CCG<\\/td> <td><p class=\\\u201dcustomccgresultred\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <tr> <td>NHS Stoke-on-Trent CCG<\\/td> <td><p class=\\\u201dcustomccgresultgreen\\\u201d>&#11044;<\\/p><\\/td> <\\/tr> <\\/table>"
+    }
+}
