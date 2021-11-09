@@ -9855,7 +9855,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Lothian",
-				"result": "GREY",
+				"result": "YELLOW",
 				"ICS": "has not changed"
 			},
 			"geometry": {
@@ -10763,7 +10763,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Greater Glasgow and Clyde",
-				"result": "GREY",
+				"result": "RED",
 				"ICS": "has not changed"
 			},
 			"geometry": {
