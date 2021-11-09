@@ -7129,7 +7129,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "Hywel Dda University Health Board",
-				"result": "YELLOW",
+				"result": "GREEN",
 				"ICS": "has not changed"
 			},
 			"geometry": {
@@ -7830,7 +7830,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "Cardiff and Vale University Health Board",
-				"result": "YELLOW",
+				"result": "GREEN",
 				"ICS": "has not changed"
 			},
 			"geometry": {
