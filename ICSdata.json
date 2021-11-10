@@ -567,19 +567,19 @@
       "code": "E38000021",
       "ccg": "NHS Brighton and Hove CCG",
       "ics": "Sussex Health and Care Partnership",
-      "icsresult": "YELLOW", "html": "<h2>Your new ICS is Sussex Health and Care Partnership</h2><br><p class=\"icsexplanation\">The boundaries for your new ICS will include NHS Ipswich and East Suffolk CCG, NHS North East Essex CCG and NHS West Suffolk CCG.</p><table class=\"ccg_table\"><thead><tr> <th>Previous CCG</th> <th>Result</th> </tr></thead> <tr> <td>NHS Brighton and Hove CCG</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> <tr> <td>NHS East Sussex CCG</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> <tr> <td>NHS West Sussex CCG</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr></table>"
+      "icsresult": "YELLOW", "html": "<h2>Your new ICS is Sussex Health and Care Partnership</h2><br><p class=\"icsexplanation\">The boundaries for your new ICS will include NHS Brighton and Hove CCG, NHS East Sussex CCG and NHS West Sussex CCG.</p><table class=\"ccg_table\"><thead><tr> <th>Previous CCG</th> <th>Result</th> </tr></thead> <tr> <td>NHS Brighton and Hove CCG</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> <tr> <td>NHS East Sussex CCG</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> <tr> <td>NHS West Sussex CCG</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr></table>"
     },
     {
       "code": "E38000248",
       "ccg": "NHS West Sussex CCG",
       "ics": "Sussex Health and Care Partnership",
-      "icsresult": "YELLOW", "html": "<h2>Your new ICS is Sussex Health and Care Partnership</h2><br><p class=\"icsexplanation\">The boundaries for your new ICS will include NHS Ipswich and East Suffolk CCG, NHS North East Essex CCG and NHS West Suffolk CCG.</p><table class=\"ccg_table\"><thead><tr> <th>Previous CCG</th> <th>Result</th> </tr></thead> <tr> <td>NHS Brighton and Hove CCG</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> <tr> <td>NHS East Sussex CCG</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> <tr> <td>NHS West Sussex CCG</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr></table>"
+      "icsresult": "YELLOW", "html": "<h2>Your new ICS is Sussex Health and Care Partnership</h2><br><p class=\"icsexplanation\">The boundaries for your new ICS will include NHS Brighton and Hove CCG, NHS East Sussex CCG and NHS West Sussex CCG.</p><table class=\"ccg_table\"><thead><tr> <th>Previous CCG</th> <th>Result</th> </tr></thead> <tr> <td>NHS Brighton and Hove CCG</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> <tr> <td>NHS East Sussex CCG</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> <tr> <td>NHS West Sussex CCG</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr></table>"
     },
     {
       "code": "E38000235",
       "ccg": "NHS East Sussex CCG",
       "ics": "Sussex Health and Care Partnership",
-      "icsresult": "YELLOW", "html": "<h2>Your new ICS is Sussex Health and Care Partnership</h2><br><p class=\"icsexplanation\">The boundaries for your new ICS will include NHS Ipswich and East Suffolk CCG, NHS North East Essex CCG and NHS West Suffolk CCG.</p><table class=\"ccg_table\"><thead><tr> <th>Previous CCG</th> <th>Result</th> </tr></thead> <tr> <td>NHS Brighton and Hove CCG</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> <tr> <td>NHS East Sussex CCG</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> <tr> <td>NHS West Sussex CCG</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr></table>"
+      "icsresult": "YELLOW", "html": "<h2>Your new ICS is Sussex Health and Care Partnership</h2><br><p class=\"icsexplanation\">The boundaries for your new ICS will include NHS Brighton and Hove CCG, NHS East Sussex CCG and NHS West Sussex CCG.</p><table class=\"ccg_table\"><thead><tr> <th>Previous CCG</th> <th>Result</th> </tr></thead> <tr> <td>NHS Brighton and Hove CCG</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> <tr> <td>NHS East Sussex CCG</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> <tr> <td>NHS West Sussex CCG</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr></table>"
     },
     {
       "code": "E38000190",
@@ -639,7 +639,19 @@
       "code": "S08000032",
       "ccg": "NHS Lanarkshire",
       "ics": "NHS Lanarkshire",
-      "icsresult": "RED", "html": "SCOTLAND BLURB"
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lanarkshire</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+      {
+      "code": "S03000030",
+      "ccg": "NHS Lanarkshire",
+      "ics": "NHS Lanarkshire",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lanarkshire</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+      {
+      "code": "S03000029",
+      "ccg": "NHS Lanarkshire",
+      "ics": "NHS Lanarkshire",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lanarkshire</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
     },
     {
       "code": "W11000024",
@@ -651,73 +663,158 @@
       "code": "W11000031",
       "ccg": "Swansea Bay University Health Board",
       "ics": "Swansea Bay University Health Board",
-      "icsresult": "GREEN", "html": ""
+      "icsresult": "GREEN", "html": "WALES BLURB"
     },
     {
-      "code": "S08000030",
+      "code": "S03000039",
       "ccg": "NHS Tayside",
       "ics": "NHS Tayside",
-      "icsresult": "GREEN", "html": "SCOTLAND BLURB"
+      "icsresult": "GREEN", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Tayside</td> <td><p class=\"customccgresultgreen\">&#11044; GREEN</p></td> </tr> </table>"
+    },
+     {
+      "code": "S03000038",
+      "ccg": "NHS Tayside",
+      "ics": "NHS Tayside",
+      "icsresult": "GREEN", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Tayside</td> <td><p class=\"customccgresultgreen\">&#11044; GREEN</p></td> </tr> </table>"
+    },
+     {
+      "code": "S03000040",
+      "ccg": "NHS Tayside",
+      "ics": "NHS Tayside",
+      "icsresult": "GREEN", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Tayside</td> <td><p class=\"customccgresultgreen\">&#11044; GREEN</p></td> </tr> </table>"
     },
     {
-      "code": "S08000028",
+      "code": "S03000043",
+      "ccg": "NHS Greater Glasgow and Clyde",
+      "ics": "NHS Greater Glasgow and Clyde",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Greater Glasgow and Clyde</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+    {
+      "code": "S03000021",
+      "ccg": "NHS Greater Glasgow and Clyde",
+      "ics": "NHS Greater Glasgow and Clyde",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Greater Glasgow and Clyde</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+     {
+      "code": "S03000023",
+      "ccg": "NHS Greater Glasgow and Clyde",
+      "ics": "NHS Greater Glasgow and Clyde",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Greater Glasgow and Clyde</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+     {
+      "code": "S03000024",
+      "ccg": "NHS Greater Glasgow and Clyde",
+      "ics": "NHS Greater Glasgow and Clyde",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Greater Glasgow and Clyde</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+     {
+      "code": "S03000018",
+      "ccg": "NHS Greater Glasgow and Clyde",
+      "ics": "NHS Greater Glasgow and Clyde",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Greater Glasgow and Clyde</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+     {
+      "code": "S03000022",
+      "ccg": "NHS Greater Glasgow and Clyde",
+      "ics": "NHS Greater Glasgow and Clyde",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Greater Glasgow and Clyde</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+     {
+      "code": "S03000017",
+      "ccg": "NHS Greater Glasgow and Clyde",
+      "ics": "NHS Greater Glasgow and Clyde",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Greater Glasgow and Clyde</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+     {
+      "code": "S03000015",
+      "ccg": "NHS Greater Glasgow and Clyde",
+      "ics": "NHS Greater Glasgow and Clyde",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Greater Glasgow and Clyde</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+     {
+      "code": "S03000016",
+      "ccg": "NHS Greater Glasgow and Clyde",
+      "ics": "NHS Greater Glasgow and Clyde",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Greater Glasgow and Clyde</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+     {
+      "code": "S03000019",
+      "ccg": "NHS Greater Glasgow and Clyde",
+      "ics": "NHS Greater Glasgow and Clyde",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Greater Glasgow and Clyde</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+     {
+      "code": "S03000020",
+      "ccg": "NHS Greater Glasgow and Clyde",
+      "ics": "NHS Greater Glasgow and Clyde",
+      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Greater Glasgow and Clyde</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+    
+    {
+      "code": "S03000041",
       "ccg": "NHS Western Isles",
       "ics": "NHS Western Isles",
-      "icsresult": "GREEN", "html": "SCOTLAND BLURB"
+      "icsresult": "GREEN", "html": "SCOTLAND BLURB<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Western Isles</td> <td><p class=\"customccgresultgreen\">&#11044; GREEN</p></td> </tr> </table>"
     },
     {
-      "code": "S08000026",
+      "code": "S03000037",
       "ccg": "NHS Shetland",
       "ics": "NHS Shetland",
-      "icsresult": "YELLOW", "html": "SCOTLAND BLURB"
+      "icsresult": "YELLOW", "html": "SCOTLAND BLURB<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Shetland</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> </table>"
     },
     {
-      "code": "S08000025",
+      "code": "S03000036",
       "ccg": "NHS Orkney",
       "ics": "NHS Orkney",
-      "icsresult": "RED", "html": "SCOTLAND BLURB"
+      "icsresult": "RED", "html": "SCOTLAND BLURB<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Orkney</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
     },
     {
-      "code": "S08000022",
+      "code": "S03000044",
       "ccg": "NHS Highland",
       "ics": "NHS Highland",
-      "icsresult": "YELLOW", "html": "SCOTLAND BLURB"
+      "icsresult": "YELLOW", "html": "SCOTLAND BLURB<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Highland</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> </table>"
     },
     {
-      "code": "S08000020",
+      "code": "S03000012",
       "ccg": "NHS Grampian",
       "ics": "NHS Grampian",
-      "icsresult": "YELLOW", "html": "SCOTLAND BLURB"
+      "icsresult": "YELLOW", "html": "SCOTLAND BLURB<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Grampian</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> </table>"
     },
     {
-      "code": "S08000019",
+      "code": "S03000010",
       "ccg": "NHS Forth Valley",
       "ics": "NHS Forth Valley",
-      "icsresult": "GREEN", "html": "SCOTLAND BLURB"
+      "icsresult": "GREEN", "html": "SCOTLAND BLURB<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Forth Valley</td> <td><p class=\"customccgresultgreen\">&#11044; GREEN</p></td> </tr> </table>"
     },
     {
-      "code": "S08000029",
+      "code": "S03000007",
       "ccg": "NHS Fife",
       "ics": "NHS Fife",
-      "icsresult": "RED", "html": "SCOTLAND BLURB"
+      "icsresult": "RED", "html": "SCOTLAND BLURB<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Fife</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
     },
     {
-      "code": "S08000017",
+      "code": "S03000042",
+      "ccg": "NHS Lothian",
+      "ics": "NHS Lothian",
+      "icsresult": "RED", "html": "SCOTLAND BLURB<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+    },
+    {
+      "code": "S03000005",
       "ccg": "NHS Dumfries and Galloway",
       "ics": "NHS Dumfries and Galloway",
-      "icsresult": "RED", "html": "SCOTLAND BLURB"
+      "icsresult": "RED", "html": "SCOTLAND BLURB<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Dumfries and Galloway</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
     },
     {
-      "code": "S08000016",
+      "code": "S03000004",
       "ccg": "NHS Borders",
       "ics": "NHS Borders",
-      "icsresult": "GREEN", "html": "SCOTLAND BLURB"
+      "icsresult": "GREEN", "html": "SCOTLAND BLURB<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Borders</td> <td><p class=\"customccgresultgreen\">&#11044; GREEN</p></td> </tr> </table>"
     },
     {
-      "code": "S08000015",
+      "code": "S03000003",
       "ccg": "NHS Ayrshire & Arran",
       "ics": "NHS Ayrshire & Arran",
-      "icsresult": "GREEN", "html": "SCOTLAND BLURB"
+      "icsresult": "GREEN", "html": "SCOTLAND BLURB<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Aryshire & Arran</td> <td><p class=\"customccgresultgreen\">&#11044; GREEN</p></td> </tr> </table>"
     },
     {
       "code": "W11000025",
@@ -774,7 +871,7 @@
       "icsresult": "RED", "html": "NI BLURB"
     },
     {
-      "code": "ZC040",
+      "code": "ZC050",
       "ccg": "Western Commissioning Group",
       "ics": "Western Commissioning Group",
       "icsresult": "RED", "html": "NI BLURB"
