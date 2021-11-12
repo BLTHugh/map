@@ -1,4 +1,5 @@
 [
+
     {
       "code": "E38000251",
       "ccg": "NHS Coventry and Warwickshire CCG",
@@ -657,13 +658,13 @@
       "code": "W11000024",
       "ccg": "Powys Teaching Health Board",
       "ics": "Powys Teaching Health Board",
-      "icsresult": "GREEN", "html": "WALES BLURB"
+      "icsresult": "GREEN", "html": "Wales has an ‘All Wales Pathway’ in place for the detection of liver disease. We need to ensure this is being effectively used, please contact you MP to ensure the All Wales Pathway is being used effectively."
     },
     {
       "code": "W11000031",
       "ccg": "Swansea Bay University Health Board",
       "ics": "Swansea Bay University Health Board",
-      "icsresult": "GREEN", "html": "WALES BLURB"
+      "icsresult": "GREEN", "html": "Wales has an ‘All Wales Pathway’ in place for the detection of liver disease. We need to ensure this is being effectively used, please contact you MP to ensure the All Wales Pathway is being used effectively."
     },
     {
       "code": "S03000039",
@@ -921,61 +922,61 @@
       "code": "W11000025",
       "ccg": "Hywel Dda University Local Health Board ",
       "ics": "Hywel Dda University Local Health Board ",
-      "icsresult": "YELLOW", "html": "WALES BLURB"
+      "icsresult": "YELLOW", "html": "Wales has an ‘All Wales Pathway’ in place for the detection of liver disease. We need to ensure this is being effectively used, please contact you MP to ensure the All Wales Pathway is being used effectively."
     },
     {
       "code": "W11000030",
       "ccg": "Cwm Taf Morgannwg University Health Board",
       "ics": "Cwm Taf Morgannwg University Health Board",
-      "icsresult": "GREEN", "html": "WALES BLURB"
+      "icsresult": "GREEN", "html": "Wales has an ‘All Wales Pathway’ in place for the detection of liver disease. We need to ensure this is being effectively used, please contact you MP to ensure the All Wales Pathway is being used effectively."
     },
     {
       "code": "W11000029",
       "ccg": "Cardiff and Vale University Health Board",
       "ics": "Cardiff and Vale University Health Board",
-      "icsresult": "YELLOW", "html": "WALES BLURB"
+      "icsresult": "YELLOW", "html": "Wales has an ‘All Wales Pathway’ in place for the detection of liver disease. We need to ensure this is being effectively used, please contact you MP to ensure the All Wales Pathway is being used effectively."
     },
     {
       "code": "W11000023",
       "ccg": "Betsi Cadwaladr University Health Board ",
       "ics": "Betsi Cadwaladr University Health Board ",
-      "icsresult": "GREEN", "html": "WALES BLURB"
+      "icsresult": "GREEN", "html": "Wales has an ‘All Wales Pathway’ in place for the detection of liver disease. We need to ensure this is being effectively used, please contact you MP to ensure the All Wales Pathway is being used effectively."
     },
     {
       "code": "W11000028",
       "ccg": "Aneurin Bevan University Health Board",
       "ics": "Aneurin Bevan University Health Board",
-      "icsresult": "GREEN", "html": "WALES BLURB"
+      "icsresult": "GREEN", "html": "Wales has an ‘All Wales Pathway’ in place for the detection of liver disease. We need to ensure this is being effectively used, please contact you MP to ensure the All Wales Pathway is being used effectively."
     },
     {
       "code": "ZC020",
       "ccg": "Northern Commissioning Group",
       "ics": "Northern Commissioning Group",
-      "icsresult": "RED", "html": "NI BLURB"
+      "icsresult": "RED", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
     },
     {
       "code": "ZC010",
       "ccg": "Belfast Commissioning Group",
       "ics": "Belfast Commissioning Group",
-      "icsresult": "RED", "html": "NI BLURB"
+      "icsresult": "RED", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
     },
     {
       "code": "ZC030",
       "ccg": "Southern Commissioning Group",
       "ics": "Southern Commissioning Group",
-      "icsresult": "RED", "html": "NI BLURB"
+      "icsresult": "RED", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
     },
     {
       "code": "ZC040",
       "ccg": "South Eastern Commissioning Group",
       "ics": "South Eastern Commissioning Group",
-      "icsresult": "RED", "html": "NI BLURB"
+      "icsresult": "RED", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
     },
     {
       "code": "ZC050",
       "ccg": "Western Commissioning Group",
       "ics": "Western Commissioning Group",
-      "icsresult": "RED", "html": "NI BLURB"
+      "icsresult": "RED", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
  
     }
 
