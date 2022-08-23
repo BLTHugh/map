@@ -4,7 +4,7 @@
       "code": "E38000251",
       "ccg": "NHS Coventry and Warwickshire CCG",
       "ics": "Coventry and Warwickshire STP",
-      "icsresult": "RED", "html": "<h2>Your new ICS is Coventry and Warwickshire STP</h2><br><p class=\"icsexplanation\">The boundaries for your new ICS now include NHS Coventry and Rugby CCG, NHS South Warwickshire CCG and NHS Warwickshire North CCG.</p><table class = ”ccg_table”><thead><tr><th>Previous CCG</th><th>Result</th></tr></thead><tr><td>NHS Coventry and Rugby CCG</td><td><p class=\"customccgresultred\">&#11044; RED</p></td></tr><tr><td>NHS South Warwickshire CCG</td><td><p class=\"customccgresultred\">&#11044; RED</p></td></tr><tr><td>NHS Warwickshire North CCG</td><td><p class=\"customccgresultred\">&#11044; RED</p></td></tr></table>"
+      "icsresult": "RED", "html": "<h2>Your new ICS is Coventry and Warwickshire STP</h2><br><p class=\"icsexplanation\">The boundaries for your new ICS now include NHS Coventry and Rugby CCG, NHS South Warwickshire CCG and NHS Warwickshire North CCG.</p><table class = \"ccg_table\"><thead><tr><th>Previous CCG</th><th>Result</th></tr></thead><tr><td>NHS Coventry and Rugby CCG</td><td><p class=\"customccgresultred\">&#11044; RED</p></td></tr><tr><td>NHS South Warwickshire CCG</td><td><p class=\"customccgresultred\">&#11044; RED</p></td></tr><tr><td>NHS Warwickshire North CCG</td><td><p class=\"customccgresultred\">&#11044; RED</p></td></tr></table>"
     },
     {
       "code": "E38000253",
@@ -856,37 +856,37 @@
       "code": "S03000034",
       "ccg": "NHS Lothian",
       "ics": "NHS Lothian",
-      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+      "icsresult": "AMBER", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> </table>"
     },
     {
       "code": "S03000035",
       "ccg": "NHS Lothian",
       "ics": "NHS Lothian",
-      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+      "icsresult": "AMBER", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> </table>"
     },
     {
       "code": "S03000031",
       "ccg": "NHS Lothian",
       "ics": "NHS Lothian",
-      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+      "icsresult": "AMBER", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> </table>"
     },
     {
       "code": "S03000032",
       "ccg": "NHS Lothian",
       "ics": "NHS Lothian",
-      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+      "icsresult": "AMBER", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> </table>"
     },
     {
       "code": "S03000033",
       "ccg": "NHS Lothian",
       "ics": "NHS Lothian",
-      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+      "icsresult": "AMBER", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> </table>"
     },
     {
       "code": "S03000042",
       "ccg": "NHS Lothian",
       "ics": "NHS Lothian",
-      "icsresult": "RED", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultred\">&#11044; RED</p></td> </tr> </table>"
+      "icsresult": "AMBER", "html": "<table class=\"ccg_table\"><thead><tr> <th> </th> <th>Result</th> </tr></thead> <tr> <td>NHS Lothian</td> <td><p class=\"customccgresultyellow\">&#11044; AMBER</p></td> </tr> </table>"
     },
     {
       "code": "S03000005",
@@ -952,33 +952,31 @@
       "code": "ZC020",
       "ccg": "Northern Commissioning Group",
       "ics": "Northern Commissioning Group",
-      "icsresult": "RED", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
+      "icsresult": "YELLOW", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
     },
     {
       "code": "ZC010",
       "ccg": "Belfast Commissioning Group",
       "ics": "Belfast Commissioning Group",
-      "icsresult": "RED", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
+      "icsresult": "YELLOW", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
     },
     {
       "code": "ZC030",
       "ccg": "Southern Commissioning Group",
       "ics": "Southern Commissioning Group",
-      "icsresult": "RED", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
+      "icsresult": "YELLOW", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
     },
     {
       "code": "ZC040",
       "ccg": "South Eastern Commissioning Group",
       "ics": "South Eastern Commissioning Group",
-      "icsresult": "RED", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
+      "icsresult": "YELLOW", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
     },
     {
       "code": "ZC050",
       "ccg": "Western Commissioning Group",
       "ics": "Western Commissioning Group",
-      "icsresult": "RED", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
+      "icsresult": "YELLOW", "html": "Northern Ireland has a pathway in development for the detection of liver disease. We need to ensure this is delivered, please contact you MP to ensure the liver disease pathway is delivered and effectively used."
  
     }
-
-    
-  ]
+]
