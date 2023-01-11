@@ -356,7 +356,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Cambridgeshire and Peterborough",
-				"result": "RED",
+				"result": "YELLOW",
 				"ICS": "Cambridgeshire and Peterborough STP\n"
 			},
 			"geometry": {
@@ -1272,7 +1272,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Halton",
-				"result": "RED",
+				"result": "YELLOW",
 				"ICS": "Cheshire and Merseyside Health and Care Partnership\n"
 			},
 			"geometry": {
@@ -1766,7 +1766,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Knowsley",
-				"result": "RED",
+				"result": "YELLOW",
 				"ICS": "Cheshire and Merseyside Health and Care Partnership\n"
 			},
 			"geometry": {
@@ -1815,7 +1815,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Liverpool",
-				"result": "GREEN",
+				"result": "YELLOW",
 				"ICS": "Cheshire and Merseyside Health and Care Partnership\n"
 			},
 			"geometry": {
@@ -2923,7 +2923,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS South Sefton",
-				"result": "RED",
+				"result": "YELLOW",
 				"ICS": "Cheshire and Merseyside Health and Care Partnership\n"
 			},
 			"geometry": {
@@ -3058,7 +3058,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Southport and Formby",
-				"result": "RED",
+				"result": "YELLOW",
 				"ICS": "Cheshire and Merseyside Health and Care Partnership\n"
 			},
 			"geometry": {
@@ -3082,7 +3082,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS St Helens",
-				"result": "RED",
+				"result": "YELLOW",
 				"ICS": "Cheshire and Merseyside Health and Care Partnership\n"
 			},
 			"geometry": {
@@ -3497,7 +3497,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Warrington",
-				"result": "RED",
+				"result": "YELLOW",
 				"ICS": "Cheshire and Merseyside Health and Care Partnership\n"
 			},
 			"geometry": {
@@ -3873,7 +3873,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Wirral",
-				"result": "GREEN",
+				"result": "YELLOW",
 				"ICS": "Cheshire and Merseyside Health and Care Partnership\n"
 			},
 			"geometry": {
@@ -8645,7 +8645,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Dumfries and Galloway",
-				"result": "RED",
+				"result": "YELLOW",
 				"ICS": "has not changed"
 			},
 			"geometry": {
@@ -9855,7 +9855,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Lothian",
-				"result": "YELLOW",
+				"result": "GREEN",
 				"ICS": "has not changed"
 			},
 			"geometry": {
@@ -10949,7 +10949,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Berkshire West",
-				"result": "RED",
+				"result": "YELLOW",
 				"ICS": "Buckinghamshire, Oxfordshire and Berkshire West ICS\n"
 			},
 			"geometry": {
@@ -11115,7 +11115,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Buckinghamshire",
-				"result": "YELLOW",
+				"result": "RED",
 				"ICS": "Buckinghamshire, Oxfordshire and Berkshire West ICS\n"
 			},
 			"geometry": {
@@ -11180,7 +11180,7 @@
 			"type": "Feature",
 			"properties": {
 				"CCG": "NHS Cheshire",
-				"result": "RED",
+				"result": "YELLOW",
 				"ICS": "Cheshire and Merseyside Health and Care Partnership\n"
 			},
 			"geometry": {
