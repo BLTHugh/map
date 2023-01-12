@@ -1019,7 +1019,7 @@
 			"properties": {
 				"CCG": "NHS Fareham and Gosport",
 				"result": "RED",
-				"Hampshire and the Isle of Wight ICS\n"
+				"ICS": "Hampshire and the Isle of Wight ICS\n"
 			},
 			"geometry": {
 				"type": "Polygon",
